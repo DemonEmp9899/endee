@@ -222,6 +222,5 @@ OPENROUTER_API_KEY
 6. Full-stack AI system design
 
 It highlights real-world usage of vector databases in AI applications.
-```
 
 
