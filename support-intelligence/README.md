@@ -224,14 +224,4 @@ OPENROUTER_API_KEY
 It highlights real-world usage of vector databases in AI applications.
 ```
 
----
 
-# ✅ After Pasting
-
-Run:
-
-```bash
-git add support-intelligence/README.md
-git commit -m "Added project README"
-git push origin master
-```
